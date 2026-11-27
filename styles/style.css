@@ -305,6 +305,7 @@ ol {
 .content__card-link:focus-visible {
   outline: 1px solid #fff;
 }
+
 .content__list-item {
   padding-inline: 3px;
 }
